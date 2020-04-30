@@ -8,30 +8,30 @@ The Knochee software consists of:<br>
 •	Report Product: It automatically generates the product report and the sale of the product 
 <br><br>
 Technologies used:
-Front End
-•	jQuery
-•	html
-•	javascript
-•	Bootstrap
+Front End<BR>
+•	jQuery<BR>
+•	html<BR>
+•	javascript<BR>
+•	Bootstrap<BR>
 
-Back End
+<B>Back End</B>
 
 1.	Java (NetBeans)
-•	Hibernet
-•	Servlet
-•	Jsp
-•	GlassFish Server
-
+•	Hibernet<BR>
+•	Servlet<BR>
+•	Jsp<BR>
+•	GlassFish Server<BR>
+<BR><BR>
 
 Web Pages and Application 
 
-1.	Product page
-It is the home page of our project where the admin can access:
-•	The list of all available products
-•	Availability of the products
-•	Kinds of products
-•	Sales of the product
-•	Buyer of the specific product
+1.	Product page<BR>
+It is the home page of our project where the admin can access:<BR>
+•	The list of all available products<BR>
+•	Availability of the products<BR>
+•	Kinds of products<BR>
+•	Sales of the product<BR>
+•	Buyer of the specific product<BR>
 
 1.	Front Home Page 
 
