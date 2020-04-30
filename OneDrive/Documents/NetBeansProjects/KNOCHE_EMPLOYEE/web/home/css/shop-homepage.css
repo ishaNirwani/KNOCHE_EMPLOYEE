@@ -1,0 +1,29 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+background-color: #392C35;
+}
+.bg-dark {
+    background-color: #82703a!important;
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    background-color: #82703A;
+    color:white;
+}
+a{
+  font-weight: bolder;
+  color:  #392C35;
+  transition: 2s;
+}
+a:hover{
+  text-decoration: none;
+      color:white;
+  font-weight:bolder;
+}
