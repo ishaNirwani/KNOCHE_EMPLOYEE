@@ -1,5 +1,5 @@
-<h1>KNOCHE PROJECT</h1>
-It’s a Company Administration Web application. Its design to give a comfortable environment with the ease in writing and reading data from databases as well as it provides security of JAVA.
+<center><h1>KNOCHE PROJECT</h1>
+It’s a Company Administration Web application. Its design to give a comfortable environment with the ease in writing and reading data from databases as well as it provides security of JAVA.</center>
 Objective
 <p>This section presents a conceptual overview of the solution, and then provides an introduction to its requirements.
 </p>Solution Concept
@@ -7,8 +7,8 @@ The Knochee software consists of:<br>
 •	Employee Registration into the database: Automate the current names of employee generation system and maintain the searchable customer, products database and product invoice, maintain the data security, user rights.<br>
 •	Report Product: It automatically generates the product report and the sale of the product 
 <br><br>
-Technologies used:
-Front End<BR>
+Technologies used:<br><b>
+Front End<BR></b>
 •	jQuery<BR>
 •	html<BR>
 •	javascript<BR>
@@ -16,7 +16,7 @@ Front End<BR>
 
 <B>Back End</B>
 
-1.	Java (NetBeans)
+1.	Java (NetBeans)<br>
 •	Hibernet<BR>
 •	Servlet<BR>
 •	Jsp<BR>
@@ -35,26 +35,17 @@ It is the home page of our project where the admin can access:<BR>
  
 <br><b><h3>ER Diagram</h3></b><br>
  <ul><li>Employee Table
-  <br>
   ![](images/11.png)
   </li>
   <li>Product
-<br>
-  ![](images/123.png)
+ ![](images/123.png)
 
   </li>
   <li>Specific Product
-
-  <br>
-
   ![](images/13.png)
-
-  </li>
+ </li>
   <li> RelationShip Diagram
-
-  <br>
-
-  ![](images/122.png)
+![](images/122.png)
 
   </li>
 1.	Front Home Page 
