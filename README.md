@@ -32,7 +32,31 @@ It is the home page of our project where the admin can access:<BR>
 •	Kinds of products<BR>
 •	Sales of the product<BR>
 •	Buyer of the specific product<BR>
+ 
+<br><b><h3>ER Diagram</h3></b><br>
+ <ul><li>Employee Table
+  <br>
+  ![](images/11.png)
+  </li>
+  <li>Product
+<br>
+  ![](images/123.png)
 
+  </li>
+  <li>Specific Product
+
+  <br>
+
+  ![](images/13.png)
+
+  </li>
+  <li> RelationShip Diagram
+
+  <br>
+
+  ![](images/122.png)
+
+  </li>
 1.	Front Home Page 
 
 ![](images/1.png)
