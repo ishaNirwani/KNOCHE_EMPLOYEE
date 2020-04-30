@@ -15,7 +15,6 @@ Front End<BR></b>
 •	Bootstrap<BR>
 
 <B>Back End</B>
-
 1.	Java (NetBeans)<br>
 •	Hibernet<BR>
 •	Servlet<BR>
@@ -35,16 +34,20 @@ It is the home page of our project where the admin can access:<BR>
  
 <br><b><h3>ER Diagram</h3></b><br>
  <ul><li>Employee Table
+ 
   ![](images/11.png)
   </li>
   <li>Product
+ 
  ![](images/123.png)
 
   </li>
   <li>Specific Product
+ 
   ![](images/13.png)
  </li>
   <li> RelationShip Diagram
+ 
 ![](images/122.png)
 
   </li>
